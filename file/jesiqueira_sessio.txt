@@ -1,0 +1,106 @@
+servidor 201
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#0         ssirodrigu               39  Ativo   wdica               
+                   gacosta                  40  Disco                       
+ ica-tcp#1         Djmcosta                 47  Ativo   wdica               
+ ica-tcp#6         mlattanzi                48  Ativo   wdica               
+ ica-tcp#3         mfcampos                 49  Ativo   wdica               
+ ica-tcp#4         iccardos                 50  Ativo   wdica               
+ ica-tcp#2         vraposo                  52  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 202
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+                   sacasilv                 49  Disco                       
+ ica-tcp#0         AMELLO                   53  Ativo   wdica               
+ ica-tcp#6         dmazak                   54  Ativo   wdica               
+ ica-tcp#1         fgiampedro               55  Ativo   wdica               
+ ica-tcp#3         abrassi                  57  Ativo   wdica               
+ ica-tcp#2         tzabotto                 58  Ativo   wdica               
+ ica-tcp#4         rdsouza                  59  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 203
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+                   dvecosta                 45  Disco                       
+ ica-tcp#1         wmsilva                  47  Ativo   wdica               
+ ica-tcp#6         gcrmartins               51  Ativo   wdica               
+ ica-tcp#7         dlazaro                  52  Ativo   wdica               
+ ica-tcp#0         garodrig                 53  Ativo   wdica               
+ ica-tcp#2         mnbsantos                55  Ativo   wdica               
+ ica-tcp#3         efsantiago               56  Ativo   wdica               
+ ica-tcp#4         ftashima                 57  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 204
+
+servidor 205
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#6         rferreir                 16  Ativo   wdica               
+ ica-tcp#9         llandrad                 18  Ativo   wdica               
+ ica-tcp#3         ANRCOSTA                 19  Ativo   wdica               
+ ica-tcp#7         THISILVA                 21  Ativo   wdica               
+ ica-tcp#8         vbranco                  23  Ativo   wdica               
+ ica-tcp#2         acopete                  24  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 206
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#3         jmartincue               11  Ativo   wdica               
+ ica-tcp#1         rsramos                  12  Ativo   wdica               
+                   danasilv                 14  Disco                       
+ ica-tcp#2         lalberti                 15  Ativo   wdica               
+                   ferosilva                16  Disco                       
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 207
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#3         lbotaro                   8  Ativo   wdica               
+ ica-tcp#5         MCGFERREIR               13  Ativo   wdica               
+ ica-tcp#0         lpsobrinho               14  Ativo   wdica               
+ ica-tcp#4         ailopes                  15  Ativo   wdica               
+ ica-tcp#1         lnascime                 16  Ativo   wdica               
+ ica-tcp#6         lolmelo                  17  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 208
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#4         janainars                 6  Ativo   wdica               
+                   jporfiri                  9  Disco                       
+                   cgasilva                 11  Disco                       
+ ica-tcp#1         wasosilva                14  Ativo   wdica               
+ ica-tcp#0         tcosantana               15  Ativo   wdica               
+ ica-tcp#2         rcollado                 16  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 209
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+                   pdomingos                 4  Disco                       
+ ica-tcp#4         joalsantos               10  Ativo   wdica               
+ ica-tcp#0         jemartins                12  Ativo   wdica               
+ ica-tcp#3         MSMEDEIROS               14  Ativo   wdica               
+ ica-tcp#1         rcaso                    17  Ativo   wdica               
+                   ldbsilva                 18  Disco                       
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 210
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#1         jfrjunior                 8  Ativo   wdica               
+ ica-tcp#2         dnssilva                  9  Ativo   wdica               
+ ica-tcp#7         Ctlinhares               10  Ativo   wdica               
+ ica-tcp#8         tfperes                  11  Ativo   wdica               
+ ica-tcp#0         voliveir                 12  Ativo   wdica               
+ ica-tcp#4         lpborges                 13  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
+servidor 222
+SESSIONNAME       USERNAME                 ID  STATE   TYPE        DEVICE 
+ ica-tcp#6         rosennaco                11  Ativo   wdica               
+ ica-tcp#0         fspina                   13  Ativo   wdica               
+ ica-tcp#1         tcvrodrigu               14  Ativo   wdica               
+ ica-tcp#3         aasenha                  15  Ativo   wdica               
+ ica-tcp#2         gborbosa                 17  Ativo   wdica               
+ ica-tcp#4         rclsilva                 18  Ativo   wdica               
+ ica-tcp#5         SINSILVA                 20  Ativo   wdica               
+ ica-tcp                                 65536  Escutar                      
+ rdp-tcp                                 65537  Escutar
