@@ -1,5 +1,5 @@
 1 - realizar a busca do login e salvar em arquivo csv.
-1.1 - slvar, login, id, servidor
+1.1 - salvar, login, id, servidor
 2 - realiar logof remoto para teste do login salvo no arquivo csv.
 3 - criar página Web para visualizar dados e realizar logof via pagina web.
 

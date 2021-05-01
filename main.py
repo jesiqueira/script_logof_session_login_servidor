@@ -5,28 +5,22 @@ import os
 
 f = Funcionario()
 f.criar_diretorio(os.getcwd())
-# f.carraga_dados_servidor("lista_servidores.csv", 'jesiqueira')
-# f.logof()
-# data = os.stat(os.path.join('csv', 'jesiqueira_operador.csv')).st_atime
-# data_anterior = datetime.fromtimestamp(data)
-# data_atual = datetime.now()
-# horas_passadas = data_atual - data_anterior
-# hms = horas_passadas.seconds / 60
 opcao = 0
 while opcao != 3:
     print("======================== Escolha Opção =====================")
     print('1 - Carregar Base de Dados')
     print('2 - Realizar Logoff')
-    print('3 - Realizar Sair')
+    print('3 - Sair')
+    print('4 - Teste')
 
     opcao = int(input('Informe sua escolha: '))
     if opcao == 1:
         os.system('cls')
-        f.carraga_dados_servidor("lista_servidores.csv", 'jesiqueira')
+        f.carraga_dados_servidor('jesiqueira')
     elif opcao == 2:
         os.system('cls')
         login = input('Informe o Login para realizar logof: ')
-        f.logof(login, 'jesiqueira')
+        f.logof(login.strip().lower(), 'jesiqueira')
         os.system('cls')
     elif opcao == 3:
         os.system('cls')
